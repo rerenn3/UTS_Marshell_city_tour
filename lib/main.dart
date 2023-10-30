@@ -34,7 +34,7 @@ class HomeScreen extends StatelessWidget {
 
               SingleChildScrollView(
                 child: Row(
-                  .,
+
                 ),
               )
             ],
